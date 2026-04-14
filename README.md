@@ -17,6 +17,7 @@ Investigative Analyst with over a decade of experience in private investigations
 ## Technical Toolkit (Work in progress)
 **OS:** Linux, MacOS
 **Database:** SQL (Data Querying & Filtering)
+**Forensics Tools:** MVT (Mobile Verification Toolkit) for advanced mobile threat hunting and spyware detection
 **Methodology:** Evidence collection, Investigative interviewing, Case reconstruction
 
 ---
